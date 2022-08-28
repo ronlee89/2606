@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="ashot-1.5.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/for selenium/files/ashot-1.5.4.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/for selenium/files/ATUTestRecorder_2.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/for selenium/files/commons-io-2.6.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/for selenium/files/ngwebdriver-1.1.4.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/for selenium/files/org-apache-commons-lang.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
